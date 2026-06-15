@@ -16,7 +16,11 @@ export const viewport: Viewport = {
   themeColor: "#030014",
 };
 
-export const metadata: Metadata = siteConfig;
+export const metadata = {
+  title: "Lakshay Saxena | Full Stack Developer",
+  description:
+    "Portfolio of Lakshay Saxena showcasing Full Stack Development, MERN Stack projects, Machine Learning solutions, and modern web applications.",
+};
 
 export default function RootLayout({ children }: PropsWithChildren) {
   return (
