@@ -23,7 +23,7 @@ A modern personal portfolio website built with Next.js, Tailwind CSS, Framer Mot
 
 ## Live Demo
 
-Coming Soon
+https://www.laksshaysaxena.in/
 
 ## Contact
 
